@@ -6,7 +6,7 @@
 ## About Me
 
 - 🌐 I specialize in software testing, ensuring that software meets the highest quality standards.
-- 💻 I'm proficient in JavaScript and Python, utilizing these languages to build robust and efficient applications.
+- 💻 I'm a beginner in JavaScript and Python.
 - 🧶 Outside of the tech world, I find joy in creating amigurumi, bringing new and adorable things to life.
 
 ## My Interests
